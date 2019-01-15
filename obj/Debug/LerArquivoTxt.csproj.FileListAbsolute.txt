@@ -1,0 +1,10 @@
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\bin\Debug\LerArquivoTxt.exe.config
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\bin\Debug\LerArquivoTxt.exe
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\bin\Debug\LerArquivoTxt.pdb
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.csprojAssemblyReference.cache
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.LerArquivoTXT.resources
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.Properties.Resources.resources
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.csproj.GenerateResource.cache
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.exe
+C:\Cursos\Curso_ASPNet\LerTxt\LerArquivoTxt\LerArquivoTxt\obj\Debug\LerArquivoTxt.pdb
